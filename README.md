@@ -1,4 +1,4 @@
-Hi! I'm Sepehr, a Master's in mathematics and BSc Physics graduate at the University of Sydney, with Master's specialisation in geometry.
+Hi! I'm Sepehr, a Master's in mathematics and BSc Physics graduate at the University of Sydney, with Master's specialisation in geometric topology.
 
 On my GitHub profile, I primarily hold:
 - 💡 Random visualisers I coded for fun (e.g. https://github.com/sepehrsaryazdi/RelativisticCharge, https://github.com/sepehrsaryazdi/maths-behind-machine-learning, https://github.com/sepehrsaryazdi/cpsvis0.1)
