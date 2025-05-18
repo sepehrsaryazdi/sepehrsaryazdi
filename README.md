@@ -1,9 +1,8 @@
-Hi! I'm Sepehr, a Master's in mathematics and BSc Physics graduate at the University of Sydney, with Master's specialisation in geometric topology.
+Hi! I'm Sepehr, an industry PhD student with CSIRO Robotics and the Australian Centre for Robotics, supervised by Dr. Viorela Ila, Dr. Yiduo Wang and Dr. Milad Ramezani.
 
 On my GitHub profile, I primarily hold:
-- 💡 Random visualisers I coded for fun (e.g. https://github.com/sepehrsaryazdi/RelativisticCharge, https://github.com/sepehrsaryazdi/maths-behind-machine-learning, https://github.com/sepehrsaryazdi/cpsvis0.1)
+- 💡 Random visualisers I coded for fun (e.g. https://github.com/sepehrsaryazdi/RelativisticCharge, https://github.com/sepehrsaryazdi/maths-behind-machine-learning)
 - 0️⃣1️⃣ Reproducible algorithms from my papers/work (https://github.com/sepehrsaryazdi/trace_length_reduction)
-- 🕒 Public work-in-progress forks (https://github.com/sepehrsaryazdi/LIO-SAM)
 - 🪶 Lightweight calibration libraries/sensor processing tools (https://github.com/sepehrsaryazdi/camera_2d_lidar_calibration, https://github.com/sepehrsaryazdi/ros2_bag_to_image)
 
 Contacts:
