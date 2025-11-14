@@ -1,4 +1,4 @@
-Hi! I'm Sepehr, an industry PhD student with CSIRO Robotics and the Australian Centre for Robotics, supervised by Dr. Viorela Ila, Dr. Yiduo Wang and Dr. Milad Ramezani.
+Hi! I'm Sepehr, an industry PhD student with CSIRO Robotics and the Australian Centre for Robotics, supervised by Dr. Viorela Ila, Dr. Yiduo Wang, Dr. Milad Ramezani, Dr. Changming Sun and Dr. Emili Hernandez.
 
 On my GitHub profile, I primarily hold:
 - 💡 Random visualisers I coded for fun (e.g. https://github.com/sepehrsaryazdi/RelativisticCharge, https://github.com/sepehrsaryazdi/maths-behind-machine-learning)
